@@ -1,0 +1,10 @@
+{
+  "settings": {
+  },
+  "rules": {
+    "pull_request": "gluck/gluck-peril-settings@dangerfiles/pr.js",
+    "issues": "gluck/gluck-peril-settings@dangerfiles/issue.js"
+  },
+  "repos" : {
+  }
+}
